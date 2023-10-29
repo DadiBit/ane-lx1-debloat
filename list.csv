@@ -58,9 +58,10 @@ com.huawei.videoeditor,
 com.swiftkey.swiftkeyconfigurator,
 com.android.backupconfirm,
 com.android.facelock,
-com.google.android.onetimeinitializer ,
+com.google.android.onetimeinitializer,
 com.google.android.setupwizard,
 com.google.android.backuptransport,
 com.google.android.apps.restore,
 com.google.android.feedback,
 com.google.android.tts,Text-to-speech
+com.huawei.gameassistant,AppAssistant
