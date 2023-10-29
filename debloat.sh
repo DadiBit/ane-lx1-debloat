@@ -25,9 +25,6 @@ for app in $apps; do
     	continue
     fi
     
-    echo -e $success
-    continue
-
     # try to fully uninstall the app 
     adb shell pm uninstall $app &>> debloat.log
     if [ $? == 0 ]; then
